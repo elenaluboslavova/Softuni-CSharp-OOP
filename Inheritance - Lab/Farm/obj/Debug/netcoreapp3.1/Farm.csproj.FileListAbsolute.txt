@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\bin\Debug\netcoreapp3.1\Farm.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\bin\Debug\netcoreapp3.1\Farm.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\bin\Debug\netcoreapp3.1\Farm.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\bin\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\obj\Debug\netcoreapp3.1\Farm.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\obj\Debug\netcoreapp3.1\Farm.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\obj\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Inheritance - Lab\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache
