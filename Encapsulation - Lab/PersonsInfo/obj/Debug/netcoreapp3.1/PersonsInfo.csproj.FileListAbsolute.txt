@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
