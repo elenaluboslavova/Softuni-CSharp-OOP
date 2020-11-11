@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\bin\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\bin\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\bin\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\bin\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\bin\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\bin\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\obj\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\obj\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\obj\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\obj\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\obj\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\obj\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\obj\Debug\netcoreapp3.1\Interfaces and Abstraction - Exercise.genruntimeconfig.cache
