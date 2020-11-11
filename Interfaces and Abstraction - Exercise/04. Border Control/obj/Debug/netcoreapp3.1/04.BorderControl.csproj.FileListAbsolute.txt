@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04.BorderControl.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04.BorderControl.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04.BorderControl.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04.BorderControl.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04.BorderControl.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04.BorderControl.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04.BorderControl.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04.BorderControl.genruntimeconfig.cache
