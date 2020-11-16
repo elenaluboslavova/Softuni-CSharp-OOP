@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# OOP\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.genruntimeconfig.cache
