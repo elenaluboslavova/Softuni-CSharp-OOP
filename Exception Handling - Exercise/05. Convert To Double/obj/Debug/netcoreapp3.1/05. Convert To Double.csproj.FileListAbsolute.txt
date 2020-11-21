@@ -1,0 +1,12 @@
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\bin\Debug\netcoreapp3.1\05. Convert To Double.exe
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\bin\Debug\netcoreapp3.1\05. Convert To Double.deps.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\bin\Debug\netcoreapp3.1\05. Convert To Double.runtimeconfig.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\bin\Debug\netcoreapp3.1\05. Convert To Double.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\bin\Debug\netcoreapp3.1\05. Convert To Double.dll
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\bin\Debug\netcoreapp3.1\05. Convert To Double.pdb
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\obj\Debug\netcoreapp3.1\05. Convert To Double.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\obj\Debug\netcoreapp3.1\05. Convert To Double.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\obj\Debug\netcoreapp3.1\05. Convert To Double.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\obj\Debug\netcoreapp3.1\05. Convert To Double.dll
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\obj\Debug\netcoreapp3.1\05. Convert To Double.pdb
+D:\SoftUni\C# OOP\Exception Handling - Exercise\05. Convert To Double\obj\Debug\netcoreapp3.1\05. Convert To Double.genruntimeconfig.cache

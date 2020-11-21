@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\bin\Debug\netcoreapp3.1\Exception Handling - Exercise.exe
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\bin\Debug\netcoreapp3.1\Exception Handling - Exercise.deps.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\bin\Debug\netcoreapp3.1\Exception Handling - Exercise.runtimeconfig.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\bin\Debug\netcoreapp3.1\Exception Handling - Exercise.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\bin\Debug\netcoreapp3.1\Exception Handling - Exercise.dll
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\bin\Debug\netcoreapp3.1\Exception Handling - Exercise.pdb
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\obj\Debug\netcoreapp3.1\Exception Handling - Exercise.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\obj\Debug\netcoreapp3.1\Exception Handling - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\obj\Debug\netcoreapp3.1\Exception Handling - Exercise.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\obj\Debug\netcoreapp3.1\Exception Handling - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\obj\Debug\netcoreapp3.1\Exception Handling - Exercise.dll
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\obj\Debug\netcoreapp3.1\Exception Handling - Exercise.pdb
+D:\SoftUni\C# OOP\Exception Handling - Exercise\Exception Handling - Exercise\obj\Debug\netcoreapp3.1\Exception Handling - Exercise.genruntimeconfig.cache

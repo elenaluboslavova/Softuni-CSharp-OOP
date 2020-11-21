@@ -1,0 +1,12 @@
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.exe
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.deps.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.runtimeconfig.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.dll
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.pdb
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.dll
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.pdb
+D:\SoftUni\C# OOP\Exception Handling - Exercise\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.genruntimeconfig.cache
