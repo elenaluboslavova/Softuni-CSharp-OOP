@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.exe
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.deps.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.runtimeconfig.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.dll
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.pdb
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.dll
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.pdb
+D:\SoftUni\C# OOP\Exception Handling - Exercise\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.genruntimeconfig.cache
