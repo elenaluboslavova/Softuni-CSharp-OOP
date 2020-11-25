@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\bin\Debug\netcoreapp3.1\01. Logger.exe
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\bin\Debug\netcoreapp3.1\01. Logger.deps.json
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\bin\Debug\netcoreapp3.1\01. Logger.runtimeconfig.json
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\bin\Debug\netcoreapp3.1\01. Logger.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\bin\Debug\netcoreapp3.1\01. Logger.dll
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\bin\Debug\netcoreapp3.1\01. Logger.pdb
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\obj\Debug\netcoreapp3.1\01. Logger.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\obj\Debug\netcoreapp3.1\01. Logger.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\obj\Debug\netcoreapp3.1\01. Logger.AssemblyInfo.cs
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\obj\Debug\netcoreapp3.1\01. Logger.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\obj\Debug\netcoreapp3.1\01. Logger.dll
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\obj\Debug\netcoreapp3.1\01. Logger.pdb
+D:\SoftUni\C# OOP\SOLID - Exercise\01. Logger\obj\Debug\netcoreapp3.1\01. Logger.genruntimeconfig.cache
