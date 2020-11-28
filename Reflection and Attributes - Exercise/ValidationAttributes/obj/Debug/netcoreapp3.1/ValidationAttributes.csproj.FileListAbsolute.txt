@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\SoftUni\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache
