@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\SoftUni\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
