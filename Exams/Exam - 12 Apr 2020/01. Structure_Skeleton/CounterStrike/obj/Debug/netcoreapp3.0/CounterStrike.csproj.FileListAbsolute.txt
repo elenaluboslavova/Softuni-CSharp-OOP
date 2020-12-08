@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.genruntimeconfig.cache
