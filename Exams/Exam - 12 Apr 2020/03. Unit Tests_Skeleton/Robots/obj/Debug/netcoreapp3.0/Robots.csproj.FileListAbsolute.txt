@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 12 Apr 2020\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
