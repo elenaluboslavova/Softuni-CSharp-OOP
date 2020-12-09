@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.exe
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.deps.json
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.json
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.dll
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.dll
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 20 August 2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.genruntimeconfig.cache
