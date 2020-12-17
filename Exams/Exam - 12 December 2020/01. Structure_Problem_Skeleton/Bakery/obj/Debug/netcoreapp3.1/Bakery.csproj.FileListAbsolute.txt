@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 12 December 2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
