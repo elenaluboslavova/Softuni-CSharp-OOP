@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.exe
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.deps.json
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.json
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.dll
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.pdb
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.dll
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.pdb
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.genruntimeconfig.cache
