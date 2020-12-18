@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.exe
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.deps.json
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.dll
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.pdb
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.dll
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.pdb
+D:\SoftUni\C# OOP\Exams\Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.genruntimeconfig.cache
