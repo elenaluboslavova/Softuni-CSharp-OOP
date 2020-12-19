@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\SoftUni\C# OOP\Exams\Exam - 16 August 2020\01. Structure_Skeleton\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
