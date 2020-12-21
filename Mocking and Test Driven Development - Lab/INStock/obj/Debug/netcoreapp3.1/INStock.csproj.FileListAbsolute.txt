@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache
