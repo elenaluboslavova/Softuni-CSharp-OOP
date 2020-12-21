@@ -1,0 +1,26 @@
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.exe
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.deps.json
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.json
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.dll
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.pdb
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.dll
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.pdb
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.genruntimeconfig.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.exe
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.deps.json
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.json
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.dll
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.pdb
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.dll
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.pdb
+D:\SoftUni\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.genruntimeconfig.cache
