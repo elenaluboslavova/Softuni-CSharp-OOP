@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\bin\Debug\netcoreapp3.1\2. Composite.exe
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\bin\Debug\netcoreapp3.1\2. Composite.deps.json
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\bin\Debug\netcoreapp3.1\2. Composite.runtimeconfig.json
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\bin\Debug\netcoreapp3.1\2. Composite.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\bin\Debug\netcoreapp3.1\2. Composite.dll
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\bin\Debug\netcoreapp3.1\2. Composite.pdb
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\obj\Debug\netcoreapp3.1\2. Composite.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\obj\Debug\netcoreapp3.1\2. Composite.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\obj\Debug\netcoreapp3.1\2. Composite.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\obj\Debug\netcoreapp3.1\2. Composite.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\obj\Debug\netcoreapp3.1\2. Composite.dll
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\obj\Debug\netcoreapp3.1\2. Composite.pdb
+D:\SoftUni\C# OOP\Design Patterns - Exercise\2. Composite\obj\Debug\netcoreapp3.1\2. Composite.genruntimeconfig.cache
