@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\bin\Debug\netcoreapp3.1\2. Facade.exe
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\bin\Debug\netcoreapp3.1\2. Facade.deps.json
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\bin\Debug\netcoreapp3.1\2. Facade.runtimeconfig.json
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\bin\Debug\netcoreapp3.1\2. Facade.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\bin\Debug\netcoreapp3.1\2. Facade.dll
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\bin\Debug\netcoreapp3.1\2. Facade.pdb
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\obj\Debug\netcoreapp3.1\2. Facade.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\obj\Debug\netcoreapp3.1\2. Facade.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\obj\Debug\netcoreapp3.1\2. Facade.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\obj\Debug\netcoreapp3.1\2. Facade.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\obj\Debug\netcoreapp3.1\2. Facade.dll
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\obj\Debug\netcoreapp3.1\2. Facade.pdb
+D:\SoftUni\C# OOP\Design Patterns - Lab\Design Patterns - Lab\2. Facade\obj\Debug\netcoreapp3.1\2. Facade.genruntimeconfig.cache
